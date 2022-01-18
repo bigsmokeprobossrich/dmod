@@ -1,0 +1,3 @@
+displayName = Devotion to Darkness
+author = Flairon
+version = 0.1
